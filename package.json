@@ -1,0 +1,19 @@
+{
+  "name": "note-taking-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahasiddiqui1994/note-taking-app.git"
+  },
+  "author": "MTS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahasiddiqui1994/note-taking-app/issues"
+  },
+  "homepage": "https://github.com/tahasiddiqui1994/note-taking-app#readme"
+}
