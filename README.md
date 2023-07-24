@@ -8,5 +8,5 @@ Note Taking app using Express, MySQL, Redis
 # Build
 - npm run dev
 
-# ROCK N ROLL
-- App is up and running
+# Test
+- This repo contains the Postman collection with all the apis, import it and start using the app.
