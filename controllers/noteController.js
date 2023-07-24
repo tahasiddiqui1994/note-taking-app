@@ -49,6 +49,7 @@ const getAllNotes = async (req, res) => {
 
 const getNoteById = async (req, res) => {
   try {
+    console.log('getNoteById => req.user: ', req.user);
     const { id } = req.user;
     const { noteId } = req.params;
 
